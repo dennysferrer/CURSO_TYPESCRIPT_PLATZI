@@ -1,0 +1,25 @@
+{
+  "name": "curso_typescript_platzi",
+  "version": "1.0.0",
+  "description": "Curso general de Typescript en platzi",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennysferrer/CURSO_TYPESCRIPT_PLATZI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennysferrer/CURSO_TYPESCRIPT_PLATZI/issues"
+  },
+  "homepage": "https://github.com/dennysferrer/CURSO_TYPESCRIPT_PLATZI#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
